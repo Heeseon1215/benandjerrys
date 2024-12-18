@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.778bf5bf.css",
+    "main.css": "/static/css/main.cc3faf62.css",
     "main.js": "/static/js/main.710482ef.js",
     "static/media/PretendardVariable.woff2": "/static/media/PretendardVariable.2bc582461caf4e05b51d.woff2",
     "static/media/Komigo3D-Regular.woff2": "/static/media/Komigo3D-Regular.25cdda1cbf501122c9eb.woff2",
     "static/media/Komigo-Regular.woff2": "/static/media/Komigo-Regular.ce683c7da9229a21a5df.woff2",
     "static/media/ImpactLTStd.woff2": "/static/media/ImpactLTStd.09380468841c9cfc395f.woff2",
     "index.html": "/index.html",
-    "main.778bf5bf.css.map": "/static/css/main.778bf5bf.css.map",
+    "main.cc3faf62.css.map": "/static/css/main.cc3faf62.css.map",
     "main.710482ef.js.map": "/static/js/main.710482ef.js.map"
   },
   "entrypoints": [
-    "static/css/main.778bf5bf.css",
+    "static/css/main.cc3faf62.css",
     "static/js/main.710482ef.js"
   ]
 }
