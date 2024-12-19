@@ -90,7 +90,7 @@ a {
   font-family: impact;
   font-style: normal;
   font-weight: 600;
-  src: local("Impact"), url(/static/media/ImpactLTStd.09380468841c9cfc395f.woff2) format("woff2")
+  src: local("Impact"), url(./static/media/ImpactLTStd.09380468841c9cfc395f.woff2) format("woff2")
 }
 
 @font-face {
@@ -98,7 +98,7 @@ a {
   font-family: komigo;
   font-style: normal;
   font-weight: 600;
-  src: local("Komigo Regular"), url(/static/media/Komigo-Regular.ce683c7da9229a21a5df.woff2) format("woff2")
+  src: local("Komigo Regular"), url(./static/media/Komigo-Regular.ce683c7da9229a21a5df.woff2) format("woff2")
 }
 
 @font-face {
@@ -106,7 +106,7 @@ a {
   font-family: komigo\ 3D;
   font-style: normal;
   font-weight: 600;
-  src: local("Komigo 3D Regular"), url(/static/media/Komigo3D-Regular.25cdda1cbf501122c9eb.woff2) format("woff2")
+  src: local("Komigo 3D Regular"), url(./static/media/Komigo3D-Regular.25cdda1cbf501122c9eb.woff2) format("woff2")
 }
 
 @font-face {
@@ -114,7 +114,7 @@ a {
   font-family: Pretendard Variable;
   font-style: normal;
   font-weight: 45 920;
-  src: url(/static/media/PretendardVariable.2bc582461caf4e05b51d.woff2) format("woff2-variations")
+  src: url(./static/media/PretendardVariable.2bc582461caf4e05b51d.woff2) format("woff2-variations")
 }
 
 h2 {
